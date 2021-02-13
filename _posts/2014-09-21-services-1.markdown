@@ -1,10 +1,10 @@
 ---
 layout: default
-img: bakim.png
+img: bakim.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: İlk iş Deneyimi:<br>Markam Teknoloji
 description: |
 ---
-  İş deneyimime küçük bir firma olan Markam Teknolojide başladım. Call Center hizmeti vermeyi amaçlan firmanın alt yapı (donanım , sistem) oluşumunu sağladım.
-  Kullanılan ara yüz ile alakalı gerekli eğitimi personele verilmesinden ve oluşa bilecek problemlerin giderilmesinde sorumluluk üstlendim.
-  Aktif olarakta Müşteri Temsilciliği ve Satış olaklı projelerde çalıştım.
+  İş deneyimime küçük bir firma olan Markam Teknolojide başladım. Call Center hizmeti vermeyi amaçlayan firmanın alt yapı (donanım , sistem) oluşumunu sağladım.<br>
+  Kullanılan ara yüz ile alakalı gerekli eğitimi personele verilmesinden ve oluşa bilecek problemlerin giderilmesinde sorumluluk üstlendim.<br>
+  Aktif olarakta Müşteri Temsilciliği ve Satış odaklı projelerde çalıştım.<br>
