@@ -1,10 +1,12 @@
 ---
 layout: default
-img: dog.png
+img: katalog.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: AkÖzbekler<br>Numune Sistem Operatörü
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Yurt dışı çalışan tekstil fimasinin kendine ait olarak üretilen numunelerin stüdyo
+çekimleri, ürünlerin kolajlanması, ilgili müşteri temsilciliklerine sistem üzerinden
+ulaştırılması, arşivlenmesi.
+Şirket içi ve şirket dışı numune takibi.
+
