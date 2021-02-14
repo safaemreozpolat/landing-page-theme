@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: katolog.jpg
 category: Services
 title: AkÖzbekler<br>Numune Sistem Operatörü
 description: |
