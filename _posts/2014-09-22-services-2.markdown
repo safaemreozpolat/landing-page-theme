@@ -1,6 +1,6 @@
 ---
 layout: default
-img: katolog.jpg
+img: katalog.jpg
 category: Services
 title: AkÖzbekler<br>Numune Sistem Operatörü
 description: |
