@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Hedef  <br>
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Yaazılım alanında kendimi geliştirerek ilk başta Frond end daha sonra Back end olarak gerekli bilgilere edinip Full Stack olarak hizmet vermeyi planlıyorum. Gelişime açık birisi olarak bütün önerilere açık olduğumu bilmenizi isterim. Kendi bilgilerimlede sizlere yardımcı olmayı çok isterim. İstediğiniz konularda benimle iletişime geçebilir ve görüşlerimizi paylaşa biliriz, bu durum beni geliştirecektir. :) 
