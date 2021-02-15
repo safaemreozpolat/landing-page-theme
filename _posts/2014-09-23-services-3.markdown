@@ -5,4 +5,4 @@ category: Services
 title: Hedef  <br>
 description: |
 ---
-Yaazılım alanında kendimi geliştirerek ilk başta Frond end daha sonra Back end olarak gerekli bilgilere edinip Full Stack olarak hizmet vermeyi planlıyorum. Gelişime açık birisi olarak bütün önerilere açık olduğumu bilmenizi isterim. Kendi bilgilerimlede sizlere yardımcı olmayı çok isterim. İstediğiniz konularda benimle iletişime geçebilir ve görüşlerimizi paylaşa biliriz, bu durum beni geliştirecektir. :) 
+Yazılım alanında kendimi geliştirerek ilk başta Frond end daha sonra Back end olarak gerekli bilgileri edinip Full Stack olarak hizmet vermeyi planlıyorum. Gelişime açık birisi olarak bütün önerilere açık olduğumu bilmenizi isterim. Kendi bilgilerimlede sizlere yardımcı olmayı çok isterim. İstediğiniz konularda benimle iletişime geçebilir ve görüşlerimizi paylaşa biliriz, bu durum beni ve sizi geliştirecektir :) 
