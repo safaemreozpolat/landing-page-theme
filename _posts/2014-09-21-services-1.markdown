@@ -2,7 +2,7 @@
 layout: default
 img: bakim.jpg
 category: Services
-title: İlk iş Deneyimi:<br>Markam Teknoloji
+title: Markam Teknoloji<br> Sistem Bakım Onarım
 description: |
 ---
   İş deneyimime küçük bir firma olan Markam Teknolojide başladım. Call Center hizmeti vermeyi amaçlayan firmanın alt yapı (donanım , sistem) oluşumunu sağladım.<br>
