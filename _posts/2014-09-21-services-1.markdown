@@ -2,7 +2,7 @@
 layout: default
 img: bakim.jpg
 category: Services
-title: Markam Teknoloji<br> Sistem Bakım Onarım
+title: Markam Teknoloji Sistem Bakım Onarım
 description: |
 ---
   İş deneyimime küçük bir firma olan Markam Teknolojide başladım. Call Center hizmeti vermeyi amaçlayan firmanın alt yapı (donanım , sistem) oluşumunu sağladım.<br>
